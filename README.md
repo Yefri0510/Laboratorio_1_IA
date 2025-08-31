@@ -1,4 +1,5 @@
-# Laboratorio_1_IA
+# Laboratorio 2
+Yefri Stiven Barrero Solano - 23230392
 
 Este repositorio contiene una colección de implementaciones que abordan problemas clásicos de búsqueda en inteligencia artificial y modelado de sistemas basados en estados. Los ejemplos ilustran diferentes enfoques para resolver problemas que involucran espacios de estados discretos, transiciones entre estados, y la búsqueda de soluciones óptimas o factibles. Estos conceptos son fundamentales en áreas como la planificación autónoma, la simulación de agentes inteligentes y la resolución de problemas de optimización.
 
