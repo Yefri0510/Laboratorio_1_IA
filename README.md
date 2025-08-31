@@ -24,14 +24,14 @@ Una versión simplificada de laberinto en grid 2x2, enfocada en demostrar los co
 ## Consideraciones Generales
 Estas implementaciones destacan varios principios importantes en inteligencia artificial y modelado de sistemas:
 
-* **1-Representación del conocimiento:** La importancia de elegir una representación adecuada de estados y acciones
+* **Representación del conocimiento:** La importancia de elegir una representación adecuada de estados y acciones
 
-* **2-Algoritmos de búsqueda:** Diferentes estrategias (A*, BFS) para explorar espacios de estados
+* **Algoritmos de búsqueda:** Diferentes estrategias (A*, BFS) para explorar espacios de estados
 
-* **3-Heurísticas:** El diseño de funciones heurísticas admisibles para guiar búsquedas informadas
+* **Heurísticas:** El diseño de funciones heurísticas admisibles para guiar búsquedas informadas
 
-* **4-Validación:** Verificación de precondiciones como la solucionabilidad de problemas
+* **Validación:** Verificación de precondiciones como la solucionabilidad de problemas
 
-* **5-Optimalidad:** Garantía de encontrar soluciones óptimas cuando existen
+* **Optimalidad:** Garantía de encontrar soluciones óptimas cuando existen
 
 Estos ejemplos sirven como base para entender problemas más complejos en planificación autónoma, simulación de agentes, y sistemas de decisión.
